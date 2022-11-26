@@ -12,7 +12,7 @@ Steps:
 
 #Clone the repository
 
-https://github.com/Kuramdasu-ujwala-devi/movie_recommender_system.git
+https://github.com/Kuramdasu-ujwala-devi/book_recommender_system.git
 
 Step 01- Create a conda environment after opening the repository
 
