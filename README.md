@@ -5,7 +5,7 @@
 
 ### About this project:
 This is a `streamlit` web application that can recommend various kinds of similar movies based on an user interest. here is a demo,
-[Run it on live server]- (https://book-recommendation29.herokuapp.com/)
+[Run it on live server](https://book-recommendation29.herokuapp.com/)
 
 ### How to run?
 Steps:
