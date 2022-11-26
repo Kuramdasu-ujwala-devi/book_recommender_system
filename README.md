@@ -9,6 +9,7 @@ This is a `streamlit` web application that can recommend various kinds of simila
 
 ### How to run?
 Steps:
+
 #Clone the repository
 
 https://github.com/Kuramdasu-ujwala-devi/movie_recommender_system.git
