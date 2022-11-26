@@ -14,7 +14,7 @@ https://github.com/Kuramdasu-ujwala-devi/movie_recommender_system.git
 
 Step 01- Create a conda environment after opening the repository
 ```conda create -n movie_rec_sys python=3.8 -y```
-```conda activate movie_rec_sys'''
+```conda activate movie_rec_sys```
 
 Step 02- install the requirements
 pip install -r requirements.txt
