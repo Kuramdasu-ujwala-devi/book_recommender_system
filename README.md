@@ -10,20 +10,25 @@ This is a `streamlit` web application that can recommend various kinds of simila
 ### How to run?
 Steps:
 #Clone the repository
+
 https://github.com/Kuramdasu-ujwala-devi/movie_recommender_system.git
 
 Step 01- Create a conda environment after opening the repository
+
 ```conda create -n movie_rec_sys python=3.8 -y```
 
 ```conda activate movie_rec_sys```
 
 Step 02- install the requirements
+
 ```pip install -r requirements.txt```
 
 Step 03- run this file to generate the models
+
 ```book_recommendar.ipynb```
 
 Step 04- Now run,
+
 ```streamlit run app.py```
 
 After, Deployed in Heroku
