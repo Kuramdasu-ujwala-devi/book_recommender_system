@@ -1,13 +1,13 @@
-### Project: Movie Recommender System Using Machine Learning!
+# Project: Movie Recommender System Using Machine Learning!
 
 ## What Is Recommendation System?
-A recommendation system is a subclass of Information filtering Systems that seeks to predict the rating or the preference a user might give to an item. In simple words, it is an algorithm that suggests relevant items to users. Eg: In the case of Netflix which movie to watch, In the case of e-commerce which product to buy, or In the case of kindle which book to read, etc.
+### A recommendation system is a subclass of Information filtering Systems that seeks to predict the rating or the preference a user might give to an item. In simple words, it is an algorithm that suggests relevant items to users. Eg: In the case of Netflix which movie to watch, In the case of e-commerce which product to buy, or In the case of kindle which book to read, etc.
 
-# About this project:
+### About this project:
 This is a streamlit web application that can recommend various kinds of similar movies based on an user interest. here is a demo,
 Run it on live server- https://book-recommendation29.herokuapp.com/
 
-# How to run?
+### How to run?
 Steps:
 #Clone the repository
 https://github.com/Kuramdasu-ujwala-devi/movie_recommender_system.git
